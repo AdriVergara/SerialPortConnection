@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\bin\x86\Release\BaseProject.UWP_1.1.3.0_x86.appx
+SymbolPackage=C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\AppPackages\BaseProject.UWP_1.1.3.0_Test\BaseProject.UWP_1.1.3.0_x86.appxsym

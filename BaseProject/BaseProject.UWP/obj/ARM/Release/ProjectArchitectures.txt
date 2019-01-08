@@ -1,0 +1,1 @@
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\BaseProject.UWP.csproj;arm

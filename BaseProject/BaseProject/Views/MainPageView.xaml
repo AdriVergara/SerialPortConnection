@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BaseProject.ViewModels"
+             xmlns:converters="clr-namespace:BaseProject.ViewModels.Converters;assembly=BaseProject"
+             xmlns:base="clr-namespace:BaseProject"
+             x:Class="BaseProject.Views.MainPageView">
+    <ContentPage.Content>
+        <StackLayout Margin="35,15">
+            <Entry x:Name="BarcodeEntry" 
+                   Text="{Binding ScannedText, Source={x:Static base:BaseViewModel.Current}}" 
+                   HeightRequest="100" />
+
+            <!--<Entry x:Name="BarcodeEntry2" 
+                   Text="{Binding ScannedText, Source={x:Static base:BaseViewModel.Current}}" 
+                   HeightRequest="100" />-->
+
+            <!--<StackLayout Orientation="Horizontal">
+                <Button Text="Open Port"
+                        Command="{Binding OpenPortCommand}"
+                        IsEnabled="{Binding IsOpen, Converter={converters:InverseBoolConverter}}"/>
+
+                <Button Text="Close Port"
+                        Command="{Binding ClosePortCommand}"
+                        IsEnabled="{Binding IsOpen}"/>
+            </StackLayout>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

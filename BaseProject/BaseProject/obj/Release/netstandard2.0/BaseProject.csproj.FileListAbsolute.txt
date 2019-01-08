@@ -1,0 +1,13 @@
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\bin\Release\netstandard2.0\BaseProject.deps.json
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\bin\Release\netstandard2.0\BaseProject.dll
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\bin\Release\netstandard2.0\BaseProject.pdb
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.csprojAssemblyReference.cache
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\Views\MainPageView.xaml.g.cs
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\Views\SecondPageView.xaml.g.cs
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.AssemblyInfoInputs.cache
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.AssemblyInfo.cs
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.dll
+C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\obj\Release\netstandard2.0\BaseProject.pdb

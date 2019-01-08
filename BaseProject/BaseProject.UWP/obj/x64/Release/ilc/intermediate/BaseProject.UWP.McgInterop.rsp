@@ -1,0 +1,42 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop.dll"
+/pdb:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/define:WIN64
+/define:AMD64
+/define:ALIGN_ACCESS
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Diagnostics.Debug.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Users\Adrián Vergara\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\System.Private.BaseProject.UWP.Generated.dll"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\Adapters.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\AssemblyInfo.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\Data.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\Helpers.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\ImplTypes.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\PInvoke.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\SafeTypes.g.cs"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\x64\Release\ilc\intermediate\BaseProject.UWP.McgInterop\SharedStubs.g.cs"

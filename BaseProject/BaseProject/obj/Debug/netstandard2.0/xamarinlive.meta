@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\App.xaml</FilePath>
+      <Hash>C9-CC-FA-20-97-49-CB-95-68-A1-9F-19-EE-1F-F1-CD</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject\Views\MainPageView.xaml</FilePath>
+      <Hash>39-CC-A7-6C-47-F6-EC-C7-4C-D5-F2-71-AA-29-7D-6D</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

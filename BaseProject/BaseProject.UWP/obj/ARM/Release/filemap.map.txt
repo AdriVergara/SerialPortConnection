@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\filemap.pri"			"resources.pri"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\clrcompression.dll"			"clrcompression.dll"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\BaseProject.UWP.exe"			"BaseProject.UWP.exe"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\BaseProject.UWP.dll"			"BaseProject.UWP.dll"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\StoreLogo.scale-200.png"			"Assets\StoreLogo.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.targetsize-48.png"			"Assets\Square44x44Logo.targetsize-48.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.targetsize-256.png"			"Assets\Square44x44Logo.targetsize-256.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.targetsize-16.png"			"Assets\Square44x44Logo.targetsize-16.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.altform-unplated_targetsize-48.png"			"Assets\Square44x44Logo.altform-unplated_targetsize-48.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.altform-unplated_targetsize-256.png"			"Assets\Square44x44Logo.altform-unplated_targetsize-256.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.altform-unplated_targetsize-16.png"			"Assets\Square44x44Logo.altform-unplated_targetsize-16.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\SmallTile.scale-200.png"			"Assets\SmallTile.scale-200.png"
+"C:\Users\Adrián Vergara\source\repos\SerialPortCom\BaseProject\BaseProject.UWP\obj\ARM\Release\PackageLayout\Assets\LargeTile.scale-200.png"			"Assets\LargeTile.scale-200.png"
